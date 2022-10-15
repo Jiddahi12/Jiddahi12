@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Hauwa Ibrahim
-- 👀 I’m interested programming 
+- 👀 I’m interested in programming 
 - Am currently on C program 
 - C is fun
